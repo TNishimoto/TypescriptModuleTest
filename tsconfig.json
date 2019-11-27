@@ -8,7 +8,7 @@
         "target": "ES6",
         "declaration": true,
         "strict": true,
-        "module": "umd"
+        "module": "es6"
     },
     "include": [
         "src"
